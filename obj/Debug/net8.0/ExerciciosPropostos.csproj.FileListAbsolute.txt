@@ -1,0 +1,10 @@
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/bin/Debug/net8.0/ExerciciosPropostos
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/bin/Debug/net8.0/ExerciciosPropostos.dll
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/bin/Debug/net8.0/ExerciciosPropostos.pdb
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.AssemblyInfoInputs.cache
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.AssemblyInfo.cs
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.csproj.CoreCompileInputs.cache
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.dll
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/refint/ExerciciosPropostos.dll
+/Users/GabrielGallo/Códigos/Estudo-C#/ExerciciosPropostos/ExerciciosPropostos/ExerciciosPropostos/obj/Debug/net8.0/ExerciciosPropostos.pdb
